@@ -5,4 +5,5 @@ Juego al **futbol** en *U.C.D. Burlades*, vengo de FP grado medio de sistemas mi
 
 ![Estadio de riapgaña](https://fotos01.noticiasdenavarra.com/2020/01/20/690x278/estreno-burlada-1.jpg)
 
-2º desarrollo, prueba, no official
+
+Version de produccion, prueba, no official
